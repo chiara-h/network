@@ -1,4 +1,4 @@
-Name,Account,Description,People,Start_Date,End_Date,Technology,Case_Study,Notes,Person,Person_2,Person_3,Role,Statement_of_Work,Time_Off,Person_4
+Name,Account,Description,People,Start_Date,End_Date,Technology,Case_Study,Notes,Person,Person_2,Person_3,Role,Statement of Work,Time_Off,Person_4
 E-Commerce,Picture This Clothing,,Pawel Szymczykowski,6/1/2018,12/31/2021,,,,,,,,,,
 PM360 Project,PM360,,"Joe Mayo,Leah Miller,Jen Wilhelm",8/1/2018,12/31/2019,,,,,,,,,,
 Insider Rebuild,goHUNT,,"Jimmy Jacobson,Pawel Szymczykowski,Jen Wilhelm,Zach Koelleger",10/15/2018,2/15/2019,,,,,,,,,,
@@ -166,3 +166,4 @@ Automated Takedown Notices,Take Down Piracy,,,12/18/2023,2/29/2024,,,,,,,Sr. Eng
 Airtable Dashboard,Accelerate Talent Management,,,2/5/2024,2/29/2024,,,,,,,Data Analyst,,,
 DDOS Project,Edlen,,,4/15/2024,4/26/2024,,,,,,,Software Engineer,,,
 Contezo,Lee Media,,,6/3/2024,12/27/2024,,,,,,,,,,
+ARTT,,"Delivered new UI, improved navigation, and improved UX for a communication app to help media professionals learn about different interaction styles and improve social media interactions.","Kandarp Dave,Richie Abenoja,Lauren Mason Carris",4/9/2024,,"Elixir, Nodejs, Typescript, Figma",,,,,,,,,
